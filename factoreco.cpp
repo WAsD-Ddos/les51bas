@@ -9,6 +9,7 @@ int factorial(int n) {
     if (n == 1) return 1;
     ans = factorial(n - 1) * n;
     return (ans);
+
 }
 
 int main() {
