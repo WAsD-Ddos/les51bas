@@ -21,5 +21,11 @@
     <ClCompile Include="fibo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="recurse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factoreco.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

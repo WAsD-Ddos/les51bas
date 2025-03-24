@@ -139,8 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="factoreco.cpp" />
     <ClCompile Include="factorial.cpp" />
     <ClCompile Include="fibo.cpp" />
+    <ClCompile Include="recurse.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
